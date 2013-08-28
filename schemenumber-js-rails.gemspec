@@ -3,7 +3,7 @@
 
 $:.push File.expand_path("../lib", __FILE__)
 
-require 'nserror-schemenumber-js-rails/version'
+require 'schemenumber-js-rails/version'
 
 Gem::Specification.new do |s|
   s.name = 'nserror-schemenumber-js-rails'
