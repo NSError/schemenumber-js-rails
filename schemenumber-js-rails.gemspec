@@ -13,6 +13,7 @@ Gem::Specification.new do |s|
   s.homepage = 'https://github.com/NSError/schemenumber-js-rails'
   s.summary = %q{SchemeNumber.JS packaged for your Rails 3.1+ Asset Pipeline}
   s.description = %q{SchemeNumber.JS packaged for the Rails 3.1+ Asset Pipeline, both the Coffee, JS, and min.JS versions.}
+  s.license = 'MIT'
 
   s.files = %w{
     schemenumber-js-rails.gemspec
